@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Formatif2</string>
+    <string name="Titre">Waiting Final</string>
+    <string name="btnText">Go to server</string>
+    <string name="reqSuccess">Request successful!</string>
+
+
+    <string name="noInternet">No internet connexion</string>
+</resources>

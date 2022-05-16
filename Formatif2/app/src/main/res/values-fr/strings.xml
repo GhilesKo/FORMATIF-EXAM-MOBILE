@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Formatif2</string>
+
+    <string name="noInternet">Pas de connexion réseau</string>
+    <string name="btnText">Aller au serveur</string>
+    <string name="Titre">Final Attente</string>
+    <string name="reqSuccess">Requête réussie!</string>
+
+
+
+</resources>
